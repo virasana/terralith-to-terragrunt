@@ -1,0 +1,2 @@
+aws s3api create-bucket --bucket 'terragrunt-to-terralith-tfstate-2025-09-24-2359' --region 'us-east-1'
+aws s3api put-bucket-versioning --bucket 'terragrunt-to-terralith-tfstate-2025-09-24-2359' --versioning-configuration 'Status=Enabled'
