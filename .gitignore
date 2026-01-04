@@ -1,0 +1,4 @@
+*
+!.gitignore
+app/best-cat/node_modules
+app/best-cat/package-lock.json
